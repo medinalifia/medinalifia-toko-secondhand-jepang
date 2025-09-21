@@ -43,6 +43,7 @@ Fitur utama aplikasi:
 - Hapus semua data sekaligus  
 - Selalu ada **konfirmasi** sebelum penghapusan  
 
+## (Google Drive Folder: https://drive.google.com/file/d/1VIVMkHXDsMjTOyUYqqXeh5kO0NBq5YFu/view?usp=sharing )
 ---
 
 ## 📦 Struktur Data
@@ -59,5 +60,5 @@ Setiap barang disimpan dalam bentuk dictionary:
     "Asal": "Osaka"
 }
 
-## (Google Drive Folder: https://drive.google.com/file/d/1VIVMkHXDsMjTOyUYqqXeh5kO0NBq5YFu/view?usp=sharing )
+
 
