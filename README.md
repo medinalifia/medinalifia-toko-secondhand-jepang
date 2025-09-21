@@ -58,3 +58,6 @@ Setiap barang disimpan dalam bentuk dictionary:
     "Stok": 3,
     "Asal": "Osaka"
 }
+
+## (Google Drive Folder: https://drive.google.com/file/d/1VIVMkHXDsMjTOyUYqqXeh5kO0NBq5YFu/view?usp=sharing )
+
