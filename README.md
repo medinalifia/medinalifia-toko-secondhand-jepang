@@ -18,7 +18,7 @@ Fitur utama aplikasi:
 
 ## Fitur Utama
 
-### Create (Tambah Barang)
+### 1. Create (Tambah Barang)
 - Masukkan **ItemID** unik dengan format `JPNXXX`  
 - Masukkan **Nama**, **Kategori**, **Harga**, **Stok**, dan **Asal**  
 - **Validasi input**:
@@ -26,19 +26,19 @@ Fitur utama aplikasi:
   - `Nama` / `Kategori` / `Asal`: hanya huruf/spasi (bisa juga tanda `- ' .`)  
   - `Harga` / `Stok`: angka ≥ 0  
 
-### 2️⃣ Read (Lihat Data)
+### 2. Read (Lihat Data)
 - Tampilkan semua data dalam **tabel rapi**  
 - Tampilkan data spesifik per `ItemID`  
 - Format tampilan bisa:
   - **Tabel** (ringkas)  
   - **Detail** (vertikal, satu kolom per atribut)  
 
-### 3️⃣ Update (Ubah Data)
+### 3. Update (Ubah Data)
 - Update kolom tertentu: `Nama`, `Kategori`, `Harga`, `Stok`, `Asal`  
 - Update seluruh baris sekaligus, termasuk `ItemID` (jika diizinkan)  
 - Validasi input sama seperti saat **Create**  
 
-### 4️⃣ Delete (Hapus Data)
+### 4. Delete (Hapus Data)
 - Hapus barang spesifik per `ItemID`  
 - Hapus semua data sekaligus  
 - Selalu ada **konfirmasi** sebelum penghapusan  
